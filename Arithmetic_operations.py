@@ -4,7 +4,7 @@ class aithmetic_operations:
         sum=a+b
         print(sum)
 
-    def sub(self,a,b):#function for subtraction
+    def subtraction(self,a,b):#function for subtraction
         diff=a-b
         print(diff)
     
