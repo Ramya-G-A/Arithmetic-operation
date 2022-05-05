@@ -8,7 +8,7 @@ class aithmetic_operations:
         diff=a-b
         print(diff)
     
-    def division(self,a,b):
+    def division(self,a,b):#function for division
         if b!= 0:
             quotient= a/b
             print(quotient)
