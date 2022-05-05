@@ -8,3 +8,9 @@ class aithmetic_operations:
         diff=a-b
         print(diff)
     
+    def division(self,a,b):
+        if b!= 0:
+            quotient= a/b
+            print(quotient)
+        else:
+            print("divide by 0 exception")
