@@ -1,12 +1,16 @@
-class aithmetic_operations:
+class arithmetic_operations:
 
     def addition(self,a,b):#function for addition
-        sum=a+b
-        print(sum)
+        result=a+b
+        print(result)
 
     def subtraction(self,a,b):#function for subtraction
-        diff=a-b
-        print(diff)
+        result=a-b
+        print(result)
+
+    def multiplication(self,a,b):#function for multiplication
+        result=a*b
+        print(result)
     
     def division(self,a,b):#function for division
         if b!= 0:
