@@ -2,6 +2,7 @@ class arithmetic_operations:
 
     def addition(self,num1,num2):#function for addition
         result=num1+num2
+        print(result)
 
      def subtraction(self,a,b):#function for subtraction
         result=a-b
